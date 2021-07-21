@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "still-sensor-291807",
+  "private_key_id": "41c4d1a0abf15c6d05f0c173186b682e512850b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYosN+aJ1N/UIP\nrpNpg4Ju8cPAT6qz9VOys4z0rFw5vyYDlZTZG7No32qQL7XL7lKOzpfhUDomDKd3\nzr41O1JMPPArh7D4y9t1pv1Dqj+/iZPMX7/rwn1ekt/KOjBOFPA0tmGgSOCrte1X\n1r6J2gZmi2+LRZ1FjTeKORkxUZhClHbF3clKkSDAzSQFAe+nJiMQGzVNi3irEP7t\na87dgavZ4Cz/3RHf6jcAfLgTE4PzZHqbkmWeSmb6hDarZoOs8gss9dcEe38FMdK6\npCyjZ+5eBUQicypZG32DcIdKef584jQx/HvsFdrxpbYA8K/GnCZM9faR6N55IwGC\nSmVd86uhAgMBAAECggEAL+wVheWbgrCXCAQM3Qb3+BXoQSb+co+/A6V/dXKZdjbI\nMHvK8RoVHoppttqvAx1Fywx9gZyvOFKNS04DOqBUTMQgNujt56Ok+QpHNUw4jOTg\nupGl0X/1HtIryj8EB4nPN0HvJ7dnZ+S3S7qX7MO7rbyDoNH1//hExIFsBsJvha6M\nw+AKqu/lou7cr81O0a8MzbgV7ZSSygVLkdtP/gCc02Wp47M9qzA6XXmKfT6AZTUX\nZT8El82b+MDKQQ3Dp+IU6USuo7eaw91TceWIQZibCDRhNHpr+bUpwp98BzxVF4C4\noIKz0eVlOR4s61bNKlZ71kzM+wl6yc6NXUgtbI1CXwKBgQDtjhoJYHJg4YbfcKUj\no6PIoFqTfWocRCRMpsWyP4jAp74XxUZG08vp7Y3EmcVVs5JjG2RIW9dUhBehxvSi\n/kevzWUlSpbVqfQDStic3TwgAggRurkqjriHYYn9nucMsF2lKcz6ln25dB8vw9tC\nQ7dzxtt+hI7L7Hz1IxKjNu57swKBgQDpdNkLcquCu8yVP4qVIdJjrQUFDt60F1Hi\nnNc40g2rkHRmhVfBcUi7mhvUfw2lcEZp2khf+bh2zIwnhSblrU00Yvi6sIDpHKi7\n8mnUWzoAQ8o+5qAGVuiAleAZQ1BC5azcfpZApotn7cELBPG/0FSxBtaTtTGjYsin\nyOtNs4YBWwKBgBy4CDfH/CvwN/D9WkmTt/JCSJD6IYDnUAggRVhGTA8WeGnBRLy9\nUDKosHHrMSsqOXFX12jUCZVDHuRE/EBUQ3BigW7ftJqCIGjhfIyCRomMFVOnYkld\n1bswNJF/y2kCTV/xTMGivfJUsoyAvholu6D4koKaHfVTUswEAHXQ50X3AoGBAMR0\nrgkyMB5NxzV5STeCRLfYa7b78nD+hsv6TCrmqNZNM4bqgxSoLhqg7vZ9DJDB0J9X\nLzyEurROIUtIg5kXozaIauM/kNuaYGv47RHkywRaB6GzFcr/65v5g6H+wVXqTPMo\nG2zAOeP1cVPCj2Vo/TwTkxKtkd36TPzU2R6ECiqtAoGBAK2f9eYpPYBcBt0fZpt3\nnMVSxz4XvdLnGnXp0bv6xVqLEHjfp0nsT9nJtwC4aMJ2hmTjtcUlWnuk03Fn5U7u\nZyjuzixTl8cai/NtGmHzqPA5wiLovx0T6nBjaRCqiZN3s1QA0qUoIGr8nV8GHsPo\nBwTT2eW099Y3NGij4t2+LaRK\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate@still-sensor-291807.iam.gserviceaccount.com",
+  "client_id": "113895134063777832364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate%40still-sensor-291807.iam.gserviceaccount.com"
+}

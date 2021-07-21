@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C6D4D8">
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#B2FBEA"
+        android:hint="일정을 입력하세요."
+        android:id="@+id/eventname"
+        android:layout_margin="20dp"
+        android:textColor="#3A9093"
+        android:textColorHint="#3A9093"
+        android:gravity="center" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#71B2C9"
+        android:hint="준비물을 입력하세요."
+        android:id="@+id/eventitem"
+        android:layout_margin="20dp"
+        android:textColorHint="#D9C564"
+        android:textColor="#D9C564"
+        android:gravity="center" />
+
+    <TimePicker
+        android:id="@+id/eventtime_byspin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:outlineAmbientShadowColor="@color/black"
+        android:numbersBackgroundColor="@color/black"
+        android:numbersSelectorColor="@color/black"
+        android:numbersInnerTextColor="@color/black"
+        android:numbersTextColor="@color/black"
+        android:layout_gravity="center"
+        android:timePickerMode="spinner"/>
+
+
+    <Button
+        android:id="@+id/addevent"
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:background="#AAE6AB"
+        android:text="일정추가"
+        android:textAllCaps="false"
+        android:textColor="#3D92D6"
+        android:textStyle="bold" />
+
+</LinearLayout>

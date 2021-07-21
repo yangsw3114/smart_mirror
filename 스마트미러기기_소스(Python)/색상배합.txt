@@ -1,0 +1,9 @@
+https://www.color-hex.com/color/6db6d9
+
+메인UI - #6db6d9
+
+팝업창(다이얼로그) - #c4e1ef
+
+로그인 전 UI - #98cbe4
+
+self.setStyleSheet("background-color:#c4e1ef;")
